@@ -136,6 +136,7 @@ var fight = function(enemy) {
     }
     isPlayerTurn = !isPlayerTurn;
   }
+}
 };
 
 // function to start a new game
